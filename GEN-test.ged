@@ -1,7 +1,7 @@
 ﻿0 HEAD
 1 SOUR RootsMagic
 2 NAME RootsMagic
-2 VERS 7.5.4.0
+2 VERS 7.5.7.0
 2 CORP RootsMagic, Inc.
 3 ADDR PO Box 495
 4 CONT Springville, UT 84663
@@ -67,8 +67,8 @@
 1 SLGC
 2 STAT BIC
 1 FAMS @F1@
-1 FAMC @F528@
-0 @I6@ INDI
+1 FAMC @F3@
+0 @I3@ INDI
 1 NAME Craig Wayne /Maedgen/
 2 GIVN Craig Wayne
 2 SURN Maedgen
@@ -92,7 +92,7 @@
 2 STAT BIC
 2 FAMC @F1@
 1 FAMC @F1@
-0 @I7@ INDI
+0 @I4@ INDI
 1 NAME Clayton E /Maedgen/
 2 GIVN Clayton E
 2 SURN Maedgen
@@ -104,29 +104,28 @@
 1 NOTE Newspaper clippings regarding his employment with the J C Penney Co.  (
 2 CONC E-155)
 2 CONT
-2 CONT
-1 SOUR @S72@
+1 SOUR @S7@
 2 REFN E-1
 2 _TMPLT
 3 FIELD
 4 NAME Page
-1 SOUR @S115@
+1 SOUR @S8@
 2 REFN E-90
 2 _TMPLT
 3 FIELD
 4 NAME Page
-1 SOUR @S168@
+1 SOUR @S10@
 2 _TMPLT
 3 FIELD
 4 NAME Page
-1 SOUR @S58@
+1 SOUR @S6@
 2 _TMPLT
 3 FIELD
 4 NAME Page
 1 BIRT
 2 DATE 25 OCT 1904
 2 PLAC Indian Creek, Brown, Texas
-2 SOUR @S38@
+2 SOUR @S3@
 3 REFN E-205
 3 _TMPLT
 4 FIELD
@@ -138,7 +137,7 @@
 1 DEAT
 2 DATE 17 MAY 1980
 2 PLAC San Angelo, Tom Green, Texas
-2 SOUR @S45@
+2 SOUR @S5@
 3 REFN E-89
 3 _TMPLT
 4 FIELD
@@ -149,7 +148,7 @@
 3 NOTE The Ballinger Ledger
 3 DATA
 4 TEXT Clayton E. Maedgen
-2 SOUR @S3@
+2 SOUR @S1@
 3 REFN E-90
 3 _TMPLT
 4 FIELD
@@ -177,7 +176,7 @@
 1 WAC
 2 _PRIM Y
 1 FAMS @F2@
-0 @I8@ INDI
+0 @I5@ INDI
 1 NAME Ella Mae /Smith/
 2 GIVN Ella Mae
 2 SURN Smith
@@ -191,14 +190,13 @@
 2 CONT
 2 CONT Ella Mae Smith received as member of the Elm Grove Baptist Church,
 2 CONT 3 April 1921, dismissed by letter 21 Nov 1922.
-2 CONT
 1 BIRT
 2 DATE 24 MAR 1906
 2 PLAC Elm Grove, San Saba, Texas
 1 DEAT
 2 DATE 4 JUN 1987
 2 PLAC Dallas, Dallas, Texas
-2 SOUR @S45@
+2 SOUR @S5@
 3 REFN E-136
 3 _TMPLT
 4 FIELD
@@ -222,7 +220,7 @@
 1 WAC
 2 _PRIM Y
 1 FAMS @F2@
-0 @I1313@ INDI
+0 @I6@ INDI
 1 NAME Albert Davis /Merkley/
 2 GIVN Albert Davis
 2 SURN Merkley
@@ -255,8 +253,8 @@
 2 PLAC Maeser Cem, Vernal, Uintah, Utah
 1 SLGC
 2 STAT BIC
-1 FAMS @F528@
-0 @I1314@ INDI
+1 FAMS @F3@
+0 @I7@ INDI
 1 NAME Nellie May /Oaks/
 2 GIVN Nellie May
 2 SURN Oaks
@@ -289,11 +287,21 @@
 1 BURI
 2 DATE 31 JUL 1984
 2 PLAC Maeser Cem, Vernal, Uintah, Utah
-1 FAMS @F528@
+1 FAMS @F3@
+1 FAMC @F4@
+0 @I8@ INDI
+1 NAME Mom-Change1 /Oaks/
+2 GIVN Mom-Change1
+2 SURN Oaks
+1 SEX M
+1 _UID E503E74A5787409E80AA051A27670CE39BE2
+1 CHAN
+2 DATE 23 DEC 2018
+1 FAMS @F4@
 0 @F1@ FAM
 1 HUSB @I1@
 1 WIFE @I2@
-1 CHIL @I6@
+1 CHIL @I3@
 1 MARR
 2 DATE 5 OCT 1962
 2 PLAC Salt Lake City, Salt Lake, Utah
@@ -301,10 +309,10 @@
 2 DATE 6 DEC 1965
 2 TEMP SLAKE
 0 @F2@ FAM
-1 HUSB @I7@
-1 WIFE @I8@
+1 HUSB @I4@
+1 WIFE @I5@
 1 CHIL @I1@
-1 SOUR @S40@
+1 SOUR @S4@
 2 REFN E-121
 2 _TMPLT
 3 FIELD
@@ -314,7 +322,7 @@
 3 _INFO P
 2 DATA
 3 TEXT Ella Mae to Mr. Clayton E. Maedgen
-1 SOUR @S18@
+1 SOUR @S2@
 2 REFN E-52
 2 PAGE Book 11, pg. 517
 2 _TMPLT
@@ -327,12 +335,12 @@
 2 NOTE Copy provided by Ella Mae Maedgen
 2 DATA
 3 TEXT Between Mr. Clayton E. Maedgen and Miss Ella Mae Smith
-1 SOUR @S120@
+1 SOUR @S9@
 2 REFN E-202
 2 _TMPLT
 3 FIELD
 4 NAME Page
-1 SOUR @S120@
+1 SOUR @S9@
 2 REFN E-202
 2 _TMPLT
 3 FIELD
@@ -341,7 +349,7 @@
 2 _PRIM Y
 2 DATE 8 JUL 1930
 2 PLAC Elm Grove, San Saba, Texas
-2 SOUR @S120@
+2 SOUR @S9@
 3 REFN E-202
 3 _TMPLT
 4 FIELD
@@ -350,9 +358,9 @@
 1 SLGS
 2 DATE 9 FEB 1991
 2 TEMP LOGAN
-0 @F528@ FAM
-1 HUSB @I1313@
-1 WIFE @I1314@
+0 @F3@ FAM
+1 HUSB @I6@
+1 WIFE @I7@
 1 CHIL @I2@
 1 MARR
 2 DATE 22 MAY 1934
@@ -360,7 +368,10 @@
 1 SLGS
 2 DATE 22 MAY 1934
 2 TEMP SLAKE
-0 @S3@ SOUR
+0 @F4@ FAM
+1 HUSB @I8@
+1 CHIL @I7@
+0 @S1@ SOUR
 1 ABBR Texas Death Certificate
 1 TITL Certified  Death Certificate
 1 _SUBQ Certified  Death Certificate
@@ -376,8 +387,8 @@
 2 FIELD
 3 NAME Bibliography
 3 VALUE Certified  Death Certificate.
-1 REPO @R3@
-0 @S18@ SOUR
+1 REPO @R1@
+0 @S2@ SOUR
 1 ABBR Brown County Clerk, Brownwood, Texas
 1 TITL Brown County Clerk, Texas
 1 _SUBQ Brown County Clerk, Texas
@@ -393,7 +404,7 @@
 2 FIELD
 3 NAME Bibliography
 3 VALUE Brown County Clerk, Texas.
-0 @S38@ SOUR
+0 @S3@ SOUR
 1 ABBR Texas Birth Certificate
 1 TITL Texas Birth Certificate
 1 _SUBQ Texas Birth Certificate
@@ -409,8 +420,8 @@
 2 FIELD
 3 NAME Bibliography
 3 VALUE Texas Birth Certificate.
-1 REPO @R3@
-0 @S40@ SOUR
+1 REPO @R1@
+0 @S4@ SOUR
 1 ABBR Marriage Announcement
 1 TITL Marriage Announcement
 1 _SUBQ Marriage Announcement
@@ -426,7 +437,7 @@
 2 FIELD
 3 NAME Bibliography
 3 VALUE Marriage Announcement.
-0 @S45@ SOUR
+0 @S5@ SOUR
 1 ABBR Obituary - Newspaper Clipping
 1 TITL <i>Obituary - Newspaper Clipping</i>
 1 _SUBQ <i>Obituary - Newspaper Clipping</i>
@@ -442,7 +453,7 @@
 2 FIELD
 3 NAME Bibliography
 3 VALUE <i>Obituary - Newspaper Clipping</i>.
-0 @S58@ SOUR
+0 @S6@ SOUR
 1 ABBR U.S. 1910 Census, Brown Co, Texas
 1 TITL U.S. 1910 Census, Brown Co, Texas
 1 _SUBQ U.S. 1910 Census, Brown Co, Texas
@@ -458,7 +469,7 @@
 2 FIELD
 3 NAME Bibliography
 3 VALUE U.S. 1910 Census, Brown Co, Texas.
-0 @S72@ SOUR
+0 @S7@ SOUR
 1 ABBR Paternal and Maternal Record
 1 TITL Family Paternal and Maternal Record (Hand written by Ella Mae Maedgen, 1
 2 CONC 963)
@@ -478,7 +489,7 @@
 3 NAME Bibliography
 3 VALUE Family Paternal and Maternal Record. Hand written by Ella Mae Maedgen, 1
 4 CONC 963.
-0 @S115@ SOUR
+0 @S8@ SOUR
 1 ABBR Employment at J.C. Penney Store
 1 TITL Newspaper Clippings, Employment at J.C. Penney Store
 1 _SUBQ Newspaper Clippings, Employment at J.C. Penney Store
@@ -494,7 +505,7 @@
 2 FIELD
 3 NAME Bibliography
 3 VALUE Newspaper Clippings. Employment at J.C. Penney Store.
-0 @S120@ SOUR
+0 @S9@ SOUR
 1 ABBR Newspaper clipping regarding the marriage of this couple.
 1 TITL Copy of  wedding invitation and newspaper clippings announcing  wedding
 1 _SUBQ Copy of  wedding invitation and newspaper clippings announcing  wedding
@@ -512,7 +523,7 @@
 3 NAME Bibliography
 3 VALUE Copy of  wedding invitation and newspaper clippings announcing  wedding
 4 CONC .
-0 @S168@ SOUR
+0 @S10@ SOUR
 1 ABBR U.S. 1920 Census, Brown Co, Texas
 1 TITL U.S. 1920 Census, Brown Co, Texas
 1 _SUBQ U.S. 1920 Census, Brown Co, Texas
@@ -528,7 +539,7 @@
 2 FIELD
 3 NAME Bibliography
 3 VALUE U.S. 1920 Census, Brown Co, Texas.
-0 @R3@ REPO
+0 @R1@ REPO
 1 NAME Texas Bureau of Vital Statistics
 1 ADDR Austin, Texas
 2 ADR1 Austin, Texas
@@ -1231,22 +1242,6 @@
 1 SENT [person]< [Desc]>< [Date]>< [PlaceDetails]>< [Place]>.
 1 ROLE Witness
 2 SENT [person]< [Desc]>< [Date]>< [PlaceDetails]>< [Place]>.
-1 PLAC Y
-1 DATE Y
-1 DESC Y
-0 _EVDEF Initiatories (LDS)
-1 TYPE P
-1 TITL Initiatories (LDS)
-1 ABBR Initiatories (LDS)
-1 SENT [NEED TO DEFINE SENTENCE: Initiatories (LDS)]
-1 PLAC Y
-1 DATE Y
-1 DESC Y
-0 _EVDEF Temple Divorce
-1 TYPE F
-1 TITL Temple Divorce
-1 ABBR Temple Divorce
-1 SENT [NEED TO DEFINE SENTENCE: Temple Divorce]
 1 PLAC Y
 1 DATE Y
 1 DESC Y
